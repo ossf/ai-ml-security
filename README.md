@@ -1,6 +1,6 @@
-# AI/ML WG
+# AI/ML Security WG
 
-This is the GitHub repository of the OpenSSF Artificial Intelligence / Machine Learning (AI/ML) working group. The OpenSSF Technical Advisory Council (TAC) approved its creation on 2023-09-05.
+This is the GitHub repository of the OpenSSF Artificial Intelligence / Machine Learning (AI/ML) Security working group. The OpenSSF Technical Advisory Council (TAC) approved its creation on 2023-09-05.
 
 Anyone is welcome to join our open discussions.
 
