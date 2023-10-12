@@ -4,7 +4,10 @@ This is the GitHub repository of the [OpenSSF](https://openssf.org) Artificial I
 
 Anyone is welcome to join our open discussions.
 
-The WG chair is Nigel Brown.
+WG Co-Chairs
+Jay White - GitHub @camaleon2016
+Mihai Maruseac - GitHub @mihaimaruseac
+
 
 <!-- ## Objective -->
 
