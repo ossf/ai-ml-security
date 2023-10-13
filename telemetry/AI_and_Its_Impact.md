@@ -31,7 +31,7 @@ This document aims to shed light on various facets of artificial intelligence an
 
 7. **Conclusion and References**: Lastly, we will wrap up the discussion and provide a list of references for further reading.
 
-Each section aims to provide a balanced view, presenting both the benefits and drawbacks of AI's growing role in these areas. So let's dive in and explore the multifaceted impact of artificial intelligence.
+Each section aims to provide a balanced view, presenting both the benefits and drawbacks of AI's growing role in these areas.
 
 ## Ethical Impact:
 
