@@ -10,7 +10,6 @@ Jay White - GitHub @camaleon2016
 
 Mihai Maruseac - GitHub @mihaimaruseac
 
-
 <!-- ## Objective -->
 
 <!-- ## Vision -->
@@ -19,9 +18,9 @@ Mihai Maruseac - GitHub @mihaimaruseac
 
 ## How to Participate
 
-* We have bi-weekly meetings via Zoom. To join, please see the [OpenSSF Public Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-* Informal chat is welcome on the [OpenSSF Slack channel #wg_ai_ml_security](https://openssf.slack.com/archives/C0587E513KR) (these disappear over time)
-* Mailing list [openssf-wg-ai-ml-security](https://lists.openssf.org/g/openssf-wg-ai-ml-security)
+- We have bi-weekly meetings via Zoom. To join, please see the [OpenSSF Public Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- Informal chat is welcome on the [OpenSSF Slack channel #wg_ai_ml_security](https://openssf.slack.com/archives/C0587E513KR) (these disappear over time)
+- Mailing list [openssf-wg-ai-ml-security](https://lists.openssf.org/g/openssf-wg-ai-ml-security)
 
 ## Current Work
 
@@ -42,8 +41,8 @@ Formal specifications would be licensed under the
 
 Like all OpenSSF working groups, this working group reports to the
 [OpenSSF Technical Advisory Council (TAC)](https://github.com/ossf/tac).
-For more organizational information, see the
-[OpenSSF Charter](https://openssf.org/about/charter/).
+For more information see this Working Group
+[Charter](https://github.com/ossf/ai-ml-security/blob/main/doc/CHARTER.md).
 
 ## Antitrust Policy Notice
 
