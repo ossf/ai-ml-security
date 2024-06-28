@@ -50,7 +50,8 @@ Mihai Maruseac - GitHub @mihaimaruseac
 
 We welcome contributions, suggestions and updates to our projects. To contribute to work on GitHub, please fill in an issue or create a pull request.
 * Model Transparency & Signing Special Interest Group (SIG) - This SIG is focused on establishing signing patterns and practices through Sigstore to provide verifiable claims about the integrity and provenance of models through machine learning pipelines.  This SIG is focused on establishing a cryptographic signing specification for artificial intelligence and machine learning models, addressing challenges such as very large models that can be used separately, and the signing of multiple disparate file formats.
-  * Repository: https://github.com/sigstore/model-transparency
+  * Project: **Model Signing Specification Project**
+    * Repository: https://github.com/sigstore/model-transparency
   * Mailing list: https://lists.openssf.org/g/openssf-sig-model-signing 
   * Slack: [#sig-model-signing](https://openssf.slack.com/archives/C074GBM5VL0) 
   * Drive: https://drive.google.com/drive/folders/1zCkQ_d98AMCTkCq00wuN0dFJ6SrRZzNh
@@ -58,6 +59,11 @@ We welcome contributions, suggestions and updates to our projects. To contribute
     * [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99042564666?password=4f479771-1ddf-4345-b005-f11484c40c0d) (you must have a login to [LFX platform](https://lfx.linuxfoundation.org/) to use
     * Every other Wednesday 16:00 UTC Refer to the [OpenSSF calendar](https://openssf.org/getinvolved/)
     * [Meeting Notes](https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit)
+
+
+### Upcoming work
+
+This WG is currently exploring establishment of an AI Vulnerability Disclosure SIG. Please refer to the group's meeting notes for more information.
 
 ## Related groups and activities
 
