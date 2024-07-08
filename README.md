@@ -67,7 +67,7 @@ This WG is currently exploring establishment of an AI Vulnerability Disclosure S
 
 ## Related groups and activities
 
-AIML is a rapidly evolving space. Members of this Working are actively involved in other groups and efforts focused on a variety of aspects of AIML. 
+AI/ML is a rapidly evolving space. Members of this Working are actively involved in other groups and efforts focused on a variety of aspects of AI/ML. 
 
 * **[OWASP Foundation](https://owasp.org/)**
   * _AI/ML Security work being done_: The OWASP foundation more broadly aims to improve the security of software through its community-led open source software projects. They have an [AI Security Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/). [OWASP Project Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) provides developer centered information about the top known cybersecurity risks for open source machine learning, with a description, example attack scenario, and a suggestion of how to prevent. 
