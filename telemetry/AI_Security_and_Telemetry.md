@@ -68,7 +68,8 @@
 
   - Security Solutions:
     - Security tools specifically designed for AI systems.
-
+      - [Garak](https://github.com/leondz/garak)
+        
 ## Future Trends and Research
   - Emerging Threats:
     - Discussion on potential future threats to AI systems.
