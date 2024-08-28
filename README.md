@@ -2,7 +2,7 @@
 
 This is the GitHub repository of the [OpenSSF](https://openssf.org) Artificial Intelligence / Machine Learning (AI/ML) Security Working Group (WG). The OpenSSF Technical Advisory Council (TAC) approved its creation on 2023-09-05.
 
-The AI/ML Security Working group is officially a [sandbox level](https://github.com/ossf/tac/blob/main/process/working-group-lifecycle.md) working group within the OpenSSF <img align="right" src="https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.png" width="100" height="100">>
+The AI/ML Security Working group is officially a [sandbox level](https://github.com/ossf/tac/blob/main/process/working-group-lifecycle.md) working group within the OpenSSF <img align="right" src="https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.png" width="100" height="100">.
 
 ## Objective
 
@@ -100,7 +100,7 @@ AI/ML is a rapidly evolving space. Members of this Working are actively involved
   * _AI/ML Security work being done_: Focus on AI and ML security
   * _Difference_: LFAI does not focus on systemic problems of AI/ML and the Open Source Supply Chain, which is where OSSF’s WG would have the most critical impact. LFAI supports AI and Data open source projects through incubation, education, and best practices. However, their community is focused on exactly what most developer foundations must be: project acceleration, not security. OpenSSF is the foundation of security expertise, and we need to develop a cohort of security-first engineering practices. This can be done in tandem with LFAI, but it’s simple: the end users are LFAI, but the ability to mobilize security education, intervention and open source supply chain hardening for this evolving sector is clearly within the remit, and expertise, of OpenSSF.
   * _Partnership/Collaboration Opportunity_: Clear candidates for coordination for best practices for both end users, open source maintainers, and contributor communities. 
-* **[AI Alliance](https://thealliance.ai/**
+* **[AI Alliance](https://thealliance.ai/)**
   * _AI/ML Security work being done_: This group has an AI Trust and Safety group that is focused on understanding potential trust and safety issues associatied with AI and developing mitigation strateigies for these.
   * _Difference_: This group is more focused on the Safety and Trustworthiness aspects of AI, with a smaller focus on Security.
 
