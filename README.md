@@ -2,7 +2,7 @@
 
 This is the GitHub repository of the [OpenSSF](https://openssf.org) Artificial Intelligence / Machine Learning (AI/ML) Security Working Group (WG). The OpenSSF Technical Advisory Council (TAC) approved its creation on 2023-09-05.
 
-The AI/ML Security Working group is officially a [sandbox level](https://github.com/ossf/tac/blob/main/process/working-group-lifecycle.md) working group within the OpenSSF <img align="right" src="https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.png" width="100" height="100">.
+The AI/ML Security Working group is officially a [sandbox level](https://github.com/ossf/tac/blob/main/process/working-group-lifecycle.md) working group within the OpenSSF<img align="right" src="https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.png" width="100" height="100">.
 
 ## Objective
 
