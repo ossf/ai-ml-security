@@ -49,8 +49,8 @@ Anyone is welcome to join our open discussions.
 
 ### Co-Chairs:
 
-- Jay White - GitHub @camaleon2016
-- Mihai Maruseac - GitHub @mihaimaruseac
+- Jay White - GitHub [@camaleon2016](https://github.com/camaleon2016)
+- Mihai Maruseac - GitHub [@mihaimaruseac](https://github.com/mihaimaruseac)
 
 ## How to Participate
 
