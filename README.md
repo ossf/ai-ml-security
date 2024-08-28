@@ -2,6 +2,8 @@
 
 This is the GitHub repository of the [OpenSSF](https://openssf.org) Artificial Intelligence / Machine Learning (AI/ML) Security Working Group (WG). The OpenSSF Technical Advisory Council (TAC) approved its creation on 2023-09-05.
 
+The AI/ML Security Working group is officially a [sandbox level](https://github.com/ossf/tac/blob/main/process/working-group-lifecycle.md) working group within the OpenSSF <img align="right" src="https://github.com/ossf/tac/blob/main/files/images/OpenSSF_StagesBadges_sandbox.png" width="100" height="100">>
+
 ## Objective
 
 This WG explores the security risks associated with Large Language Models (LLMs) and other deep learning models and their impact on open source projects, maintainers, their security, communities, and adopters. 
@@ -9,6 +11,20 @@ This WG explores the security risks associated with Large Language Models (LLMs)
 This group particpaites in collaborative research and peer organization engagement to explore the risks posed to individuals and organizations by LLMs and AI; such as data poisoning, privacy and secret leakage, prompt injection, licensing, adversarial attacks, and others alongside risks introduced through AI prompt guided development.
 
 This group leverages prior art in the AI/ML space,draws upon both security and AI/ML experts, and pursues collaboration with other communities (such as the CNCF's AI WG, LFAI & Data, AI Alliance, MLCommons, and many others) who are also seeking to research the risks presented by AL/ML to OSS in order to provide guidance, tooling, techniques, and capabilities to support open source projects and their adopters in securely integrating, using, detecting and defending against LLMs.
+
+## Vision
+
+We envision a world where AI developers and practitioners can easily identiy and
+use good practices to develop products using AI in a secure way. In this world,
+AI can produce code that is secure and AI usage in an application would not
+result in downgrading security guarantees.
+
+These guarantees extend over the entire lifecycle of the model, from data
+collection to using the model in production applications.
+
+The AI/ML security working group wants to serve as a central place to collate
+any recommendation for using AI securely ("security for AI") and using AI to
+improve security of other products ("AI for security").
 
 ## Scope
 
@@ -33,11 +49,8 @@ Anyone is welcome to join our open discussions.
 
 ### Co-Chairs:
 
-Jay White - GitHub @camaleon2016
-
-Mihai Maruseac - GitHub @mihaimaruseac
-
-<!-- ## Vision -->
+- Jay White - GitHub @camaleon2016
+- Mihai Maruseac - GitHub @mihaimaruseac
 
 ## How to Participate
 
@@ -45,21 +58,31 @@ Mihai Maruseac - GitHub @mihaimaruseac
   - [2024 Meeting Notes for the AIML WG](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)
 - Informal chat is welcome on the [OpenSSF Slack channel #wg_ai_ml_security](https://openssf.slack.com/archives/C0587E513KR) (these disappear over time)
 - Mailing list [openssf-wg-ai-ml-security](https://lists.openssf.org/g/openssf-wg-ai-ml-security)
+- Drive: https://drive.google.com/drive/folders/1zCkQ_d98AMCTkCq00wuN0dFJ6SrRZzNh
 
 ## Current Work
 
 We welcome contributions, suggestions and updates to our projects. To contribute to work on GitHub, please fill in an issue or create a pull request.
-* Model Transparency & Signing Special Interest Group (SIG) - This SIG is focused on establishing signing patterns and practices through Sigstore to provide verifiable claims about the integrity and provenance of models through machine learning pipelines.  This SIG is focused on establishing a cryptographic signing specification for artificial intelligence and machine learning models, addressing challenges such as very large models that can be used separately, and the signing of multiple disparate file formats.
-  * Project: **Model Signing Specification Project**
-    * Repository: https://github.com/sigstore/model-transparency
-  * Mailing list: https://lists.openssf.org/g/openssf-sig-model-signing 
-  * Slack: [#sig-model-signing](https://openssf.slack.com/archives/C074GBM5VL0) 
-  * Drive: https://drive.google.com/drive/folders/1zCkQ_d98AMCTkCq00wuN0dFJ6SrRZzNh
+
+
+### Projects:
+
+The AI/ML WG has voted to approve the following projects:
+
+| Name          | Purpose                          | Creation issue                                          |
+| ------------- | -------------------------------- | ------------------------------------------------------- |
+| Model signing | Cryptographic signing for models | [#10](https://github.com/ossf/ai-ml-security/issues/10) |
+
+More details about the projects:
+
+* Project: **Model Signing Project**
+  * Detailed purpose: Focused on establishing signing patterns and practices through Sigstore to provide verifiable claims about the integrity and provenance of models through machine learning pipelines. It is focused on establishing a cryptographic signing specification for artificial intelligence and machine learning models, addressing challenges such as very large models that can be used separately, and the signing of multiple disparate file formats.
+  * Mailing list: https://lists.openssf.org/g/openssf-sig-model-signing
+  * Slack: [#sig-model-signing](https://openssf.slack.com/archives/C074GBM5VL0)
   * Meeting information
     * [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99042564666?password=4f479771-1ddf-4345-b005-f11484c40c0d) (you must have a login to [LFX platform](https://lfx.linuxfoundation.org/) to use
     * Every other Wednesday 16:00 UTC Refer to the [OpenSSF calendar](https://openssf.org/getinvolved/)
     * [Meeting Notes](https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit)
-
 
 ### Upcoming work
 
