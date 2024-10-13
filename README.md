@@ -6,25 +6,19 @@ The AI/ML Security Working group is officially a [sandbox level](https://github.
 
 ## Objective
 
-This WG explores the security risks associated with Large Language Models (LLMs) and other deep learning models and their impact on open source projects, maintainers, their security, communities, and adopters. 
+This WG explores the security risks associated with Large Language Models (LLMs), Generative AI (GenAI), and other forms of artificial intelligence (AI) and machine learning (ML), and their impact on open source projects, maintainers, their security, communities, and adopters. 
 
-This group particpaites in collaborative research and peer organization engagement to explore the risks posed to individuals and organizations by LLMs and AI; such as data poisoning, privacy and secret leakage, prompt injection, licensing, adversarial attacks, and others alongside risks introduced through AI prompt guided development.
+This group in collaborative research and peer organization engagement to explore topics related to AI and security. This includes security for AI development (e.g., supply chain security) but also using AI for security. We are covering risks posed to individuals and organizations by improperly trained models, data poisoning, privacy and secret leakage, prompt injection, licensing, adversarial attacks, and any other similar risks.
 
 This group leverages prior art in the AI/ML space,draws upon both security and AI/ML experts, and pursues collaboration with other communities (such as the CNCF's AI WG, LFAI & Data, AI Alliance, MLCommons, and many others) who are also seeking to research the risks presented by AL/ML to OSS in order to provide guidance, tooling, techniques, and capabilities to support open source projects and their adopters in securely integrating, using, detecting and defending against LLMs.
 
 ## Vision
 
-We envision a world where AI developers and practitioners can easily identiy and
-use good practices to develop products using AI in a secure way. In this world,
-AI can produce code that is secure and AI usage in an application would not
-result in downgrading security guarantees.
+We envision a world where AI developers and practitioners can easily identify and use good practices to develop products using AI in a secure way. In this world, AI can produce code that is secure and AI usage in an application would not result in downgrading security guarantees.
 
-These guarantees extend over the entire lifecycle of the model, from data
-collection to using the model in production applications.
+These guarantees extend over the entire lifecycle of the model, from data collection to using the model in production applications.
 
-The AI/ML security working group wants to serve as a central place to collate
-any recommendation for using AI securely ("security for AI") and using AI to
-improve security of other products ("AI for security").
+The AI/ML security working group wants to serve as a central place to collate any recommendation for using AI securely ("security for AI") and using AI to improve security of other products ("AI for security").
 
 ## Scope
 
@@ -37,10 +31,10 @@ Some areas of consideration this group explores:
  * **Point in time data sets**: Large Language Models often lack recent context, where models have a knowledge cutoff date. A good example can be seen [here](https://twitter.com/decodebytes/status/1644063555283570701), where ChatGPT repeatedly recommends use of a deprecated library.
 * **Social Engineering**: AI Agents are capable of accessing the internet and communicating with humans. A recent example of this occurred where GPT-4 was able to hire humans to solve CAPTCHA. When challenged if GPT was a robot, it replied with “No, I’m not a robot. I have a vision impairment that makes it hard for me to see the images.” With projects such as AutoGPT, it is also possible to grant Agents access to a command line interface alongside internet access, so it's not too far a stretch to see Agents performing social engineering tasks (phishing etc) combined with orchestrated attacks launched from the CLI or via scripts coded on the fly to gain system access via known exploits. Agents such as this could be used to automate package hijacking , domain takeover attacks etc.
 * **Threat democratization**: AI agents will allow actors to emulate the scale of attacks previously seen with nation states. Going forward, the proverbial corner shop may need the same defenses as the pentagon. Target value needs to be reassessed.
-* **Accidental threats**: In the course of integrate AI for accelerating and improving software development and operations, AI models may leak secrets, open all ports on a firewall, or behave in an insecure manner as a result of improper training, tuning, or final configuration.
+* **Accidental threats**: In the course of integrating AI for accelerating and improving software development and operations, AI models may leak secrets, open all ports on a firewall, or behave in an insecure manner as a result of improper training, tuning, or final configuration.
 * **Prompt injection attacks**: These attacks involve directly or indirectly injecting additional text into a prompt to influence the model’s output. As a result, it could lead to prompt leaking disclosing sensitive or confidential information.
-* **Membership inference attack**: Process determining if a specific data was part of the model’s training dataset. It is most relevant in the context of deep learning models and used to extract sensitive or private information included in the training dataset.
-* **Model vulnerability management**: Identifying techniques, mechanism, and practices to apply modern vulnerability managment identification, remediation, and management practices into the model use and model development ecosystem.
+* **Membership inference attack**: Process determining if specific data was part of the model’s training dataset. It is most relevant in the context of deep learning models and used to extract sensitive or private information included in the training dataset.
+* **Model vulnerability management**: Identifying techniques, mechanisms, and practices to apply modern vulnerability managment identification, remediation, and management practices into the model use and model development ecosystem.
 * **Model integrity**: Developing mechanisms and tooling to provide secure software supply chain practices, assurances, provenance, and attestable metadata for models.
 
 Anyone is welcome to join our open discussions.
@@ -63,7 +57,6 @@ Anyone is welcome to join our open discussions.
 ## Current Work
 
 We welcome contributions, suggestions and updates to our projects. To contribute to work on GitHub, please fill in an issue or create a pull request.
-
 
 ### Projects:
 
@@ -90,7 +83,7 @@ This WG is currently exploring establishment of an AI Vulnerability Disclosure S
 
 ## Related groups and activities
 
-AI/ML is a rapidly evolving space. Members of this Working are actively involved in other groups and efforts focused on a variety of aspects of AI/ML. 
+AI/ML is a rapidly evolving space. Members of this Working Group are actively involved in other groups and efforts focused on a variety of aspects of AI/ML. 
 
 * **[OWASP Foundation](https://owasp.org/)**
   * _AI/ML Security work being done_: The OWASP foundation more broadly aims to improve the security of software through its community-led open source software projects. They have an [AI Security Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/). [OWASP Project Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) provides developer centered information about the top known cybersecurity risks for open source machine learning, with a description, example attack scenario, and a suggestion of how to prevent. 
@@ -111,7 +104,7 @@ Formal specifications would be licensed under the [Community Specification Licen
 
 ## Charter
 
-Like all OpenSSF working groups, this working group reports to the [OpenSSF Technical Advisory Council (TAC)](https://github.com/ossf/tac). For more information see this Working Group [Charter](https://github.com/ossf/ai-ml-security/blob/main/doc/CHARTER.md).
+Like all OpenSSF Working Groups, this group reports to the [OpenSSF Technical Advisory Council (TAC)](https://github.com/ossf/tac). For more information see this Working Group [Charter](https://github.com/ossf/ai-ml-security/blob/main/doc/CHARTER.md).
 
 ## Antitrust Policy Notice
 
