@@ -33,6 +33,10 @@ Finally, we are interlocking with various other groups, since new AI/ML
 communities are continuously springing up. A summary of these groups and how we
 relate to them is given below:
 
+* **[Coalition for Secure AI (COSAI)](https://www.oasis-open.org/2024/07/18/introducing-cosai/)**
+  * _AI/ML Security work being done_: One of the workstreams is on supply-chain security for AI. The chairs of this group are both participating in this workstream.
+  * _Difference_: COSAI is more focused on enterprise adoption, not just OSS.
+  * _Partnership/Collaboration Opportunity_: Supply-chain security for AI is a common interest.
 * **[OWASP Foundation](https://owasp.org/)**
   * _AI/ML Security work being done_: The OWASP foundation more broadly aims to improve the security of software through its community-led open source software projects. They have an [AI Security Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/). [OWASP Project Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) provides developer centered information about the top known cybersecurity risks for open source machine learning, with a description, example attack scenario, and a suggestion of how to prevent.
   * _Difference_: Content does not provide indepth technical recommendations for practical implementation within their security documentation. OWASP Large Language Model Applications Top 10 provides the same developer centered information for LLMs. These are all vulnerability descriptions, not developer best practices.
