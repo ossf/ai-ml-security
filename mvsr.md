@@ -30,7 +30,8 @@ projects can be used in the context of NIST SP 800-218A standard for GenAI and
 Dual-Use foundation models.
 
 Finally, we are interlocking with various other groups, since new AI/ML
-communities are continuously springing up:
+communities are continuously springing up. A summary of these groups and how we
+relate to them is given below:
 
 * **[OWASP Foundation](https://owasp.org/)**
   * _AI/ML Security work being done_: The OWASP foundation more broadly aims to improve the security of software through its community-led open source software projects. They have an [AI Security Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/). [OWASP Project Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) provides developer centered information about the top known cybersecurity risks for open source machine learning, with a description, example attack scenario, and a suggestion of how to prevent.
@@ -43,3 +44,6 @@ communities are continuously springing up:
 * **[AI Alliance](https://thealliance.ai/)**
   * _AI/ML Security work being done_: This group has an AI Trust and Safety group that is focused on understanding potential trust and safety issues associatied with AI and developing mitigation strateigies for these.
   * _Difference_: This group is more focused on the Safety and Trustworthiness aspects of AI, with a smaller focus on Security.
+
+For a full list, please see [this spreadsheet](https://docs.google.com/spreadsheets/d/1XOzf0LwksHnVeAcgQ7qMAmQAhlHV2iEf4ICvUwOaOfo/edit?gid=0#gid=0).
+For updates from each interlock, occuring at every meeting, please see [the meeting notes](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit?tab=t.0).
