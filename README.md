@@ -81,21 +81,7 @@ More details about the projects:
 
 This WG is currently exploring establishment of an AI Vulnerability Disclosure SIG. Please refer to the group's meeting notes for more information.
 
-## Related groups and activities
-
-AI/ML is a rapidly evolving space. Members of this Working Group are actively involved in other groups and efforts focused on a variety of aspects of AI/ML. 
-
-* **[OWASP Foundation](https://owasp.org/)**
-  * _AI/ML Security work being done_: The OWASP foundation more broadly aims to improve the security of software through its community-led open source software projects. They have an [AI Security Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/). [OWASP Project Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) provides developer centered information about the top known cybersecurity risks for open source machine learning, with a description, example attack scenario, and a suggestion of how to prevent. 
-  * _Difference_: Content does not provide indepth technical recommendations for practical implementation within their security documentation. OWASP Large Language Model Applications Top 10 provides the same developer centered information for LLMs. These are all vulnerability descriptions, not developer best practices.
-  * _Partnership/Collaboration Opportunity_: Education and outreach opportunities are critical here. Developers have to understand both how security, vulnerability and bugs impact their software security stance, which the OWASP Top 10s do well. Building technical best practices to prevent vulnerabilities is where OSSF can be an excellent partner in getting critical information about these unique vulnerabilities.
-* **[The LFAI Security Committee](https://wiki.lfaidata.foundation/display/DL/ML+Security+Committee)**
-  * _AI/ML Security work being done_: Focus on AI and ML security
-  * _Difference_: LFAI does not focus on systemic problems of AI/ML and the Open Source Supply Chain, which is where OSSF’s WG would have the most critical impact. LFAI supports AI and Data open source projects through incubation, education, and best practices. However, their community is focused on exactly what most developer foundations must be: project acceleration, not security. OpenSSF is the foundation of security expertise, and we need to develop a cohort of security-first engineering practices. This can be done in tandem with LFAI, but it’s simple: the end users are LFAI, but the ability to mobilize security education, intervention and open source supply chain hardening for this evolving sector is clearly within the remit, and expertise, of OpenSSF.
-  * _Partnership/Collaboration Opportunity_: Clear candidates for coordination for best practices for both end users, open source maintainers, and contributor communities. 
-* **[AI Alliance](https://thealliance.ai/)**
-  * _AI/ML Security work being done_: This group has an AI Trust and Safety group that is focused on understanding potential trust and safety issues associatied with AI and developing mitigation strateigies for these.
-  * _Difference_: This group is more focused on the Safety and Trustworthiness aspects of AI, with a smaller focus on Security.
+See also [the MVSR document](https://github.com/ossf/ai-ml-security/blob/main/mvsr.md), which also contains other AI/ML working groups we are interlocking with.
 
 ## Licenses
 
