@@ -49,7 +49,7 @@ Anyone is welcome to join our open discussions.
 ## How to Participate
 
 - We have bi-weekly meetings via Zoom. To join, please see the [OpenSSF Public Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-  - [2024 Meeting Notes for the AIML WG](https://docs.google.com/document/d/1YNP-XJ9jpTjM6ekKOBgHH8-avAws2DVKeCpn858siiQ/edit)
+  - [2025 Meeting Notes for the AIML WG](https://docs.google.com/document/d/1L3ZEIN3mHNORB9xBw0yuVUe6T_yrlumnXK5_iIw3wkk/edit)
 - Informal chat is welcome on the [OpenSSF Slack channel #wg-ai-ml-security](https://openssf.slack.com/archives/C0587E513KR) (these disappear over time)
 - Mailing list [openssf-wg-ai-ml-security](https://lists.openssf.org/g/openssf-wg-ai-ml-security)
 - Drive: https://drive.google.com/drive/folders/1zCkQ_d98AMCTkCq00wuN0dFJ6SrRZzNh
