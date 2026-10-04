@@ -1,1 +1,0 @@
-# AI_and_Its_Impact_Google_Docs
